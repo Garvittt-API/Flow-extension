@@ -4,20 +4,48 @@
     "name": "YouTube Music",
     "subtitle": "Stream from YouTube Music",
     "icon_url": "",
-    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/youtube_music.eapk"
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/Youtube_music-057f37c.eapk"
   },
   {
     "id": "spotify",
     "name": "Spotify",
-    "subtitle": "Stream from Spotify (login required)",
+    "subtitle": "Stream from Spotify",
     "icon_url": "",
-    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/spotify.eapk"
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/sp-dbe23a4.eapk"
   },
   {
-    "id": "soundcloud",
-    "name": "SoundCloud",
-    "subtitle": "Free streaming from SoundCloud",
+    "id": "deezer",
+    "name": "Deezer",
+    "subtitle": "High quality streaming",
     "icon_url": "",
-    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/soundcloud.eapk"
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/deezer-333d199.eapk"
+  },
+  {
+    "id": "jellyfin",
+    "name": "Jellyfin",
+    "subtitle": "Self-hosted media server",
+    "icon_url": "",
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/jellyfin-8de7e92.eapk"
+  },
+  {
+    "id": "groove_music",
+    "name": "Groove Music",
+    "subtitle": "Stream from Groove Music",
+    "icon_url": "",
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/Groove_music-fec592e.eapk"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "subtitle": "Stream from YouTube",
+    "icon_url": "",
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/yt-c2c45d2.eapk"
+  },
+  {
+    "id": "discord_rpc",
+    "name": "Discord RPC",
+    "subtitle": "Show what you're listening to on Discord",
+    "icon_url": "",
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/extensions/discordrpc-85449e1.eapk"
   }
 ]

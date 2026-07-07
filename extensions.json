@@ -1,0 +1,37 @@
+[
+  {
+    "id": "youtube_music",
+    "name": "YouTube Music",
+    "subtitle": "Stream from YouTube Music",
+    "icon_url": "",
+    "update_url": "https://api.github.com/repos/user/echo-youtube-music"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "subtitle": "Stream from Spotify (login required)",
+    "icon_url": "",
+    "update_url": "https://api.github.com/repos/user/echo-spotify"
+  },
+  {
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "subtitle": "Free streaming from SoundCloud",
+    "icon_url": "",
+    "update_url": "https://api.github.com/repos/user/echo-soundcloud"
+  },
+  {
+    "id": "deezer",
+    "name": "Deezer",
+    "subtitle": "High quality streaming",
+    "icon_url": "",
+    "update_url": "https://api.github.com/repos/user/echo-deezer"
+  },
+  {
+    "id": "jiosaavn",
+    "name": "JioSaavn",
+    "subtitle": "Indian music library",
+    "icon_url": "",
+    "update_url": "https://api.github.com/repos/user/echo-jiosaavn"
+  }
+]

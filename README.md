@@ -37,7 +37,7 @@ Want to add a new extension?
 
 ## Links
 
-- [Wave Music Player](https://github.com/Garvittt-API/Flow-releases)
+- [Flow Music Player](https://github.com/Garvittt-API/Flow-releases)
   
 ## Support
 

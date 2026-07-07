@@ -25,15 +25,6 @@ Extensions are automatically installed when you first open the Wave app. No manu
 3. Wave will prompt you to install the extension
 4. Confirm the installation
 
-## For Developers
-
-Extensions are built using the [Echo Extension Template](https://github.com/brahmkshatriya/echo-extension-template). To create your own extension:
-
-1. Clone the template repository
-2. Implement the `ExtensionClient` interface
-3. Build and rename the APK to `.eapk`
-4. Submit a PR or host it in your own repository
-
 ## Contributing
 
 Want to add a new extension? 

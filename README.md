@@ -39,6 +39,10 @@ Want to add a new extension?
 
 - [Wave Music Player](https://github.com/Garvittt-API/Flow-releases)
   
+## Support
+
+- Email garvitchoudhary2315@gmail.com for support
+
 ## License
 
 Each extension may have its own license. Please check the individual extension repositories for licensing information.

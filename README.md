@@ -48,8 +48,7 @@ Want to add a new extension?
 
 - [Wave Music Player](https://github.com/Garvittt-API/wave-music)
 - [Discord Server](https://discord.gg/Wexvx8JS8a)
-- [Extension Template](https://github.com/brahmkshatriya/echo-extension-template)
-
+  
 ## License
 
 Each extension may have its own license. Please check the individual extension repositories for licensing information.

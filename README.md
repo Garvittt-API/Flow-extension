@@ -1,6 +1,6 @@
-# Wave Extensions
+# Flow Extensions
 
-A collection of extensions for the [Wave Music Player](https://github.com/Garvittt-API/wave-music) Android app. Extensions add support for various music streaming services and features.
+A collection of extensions for the [Flow Music Player](https://github.com/Garvittt-API/Flow-releases) Android app. Extensions add support for various music streaming services and features.
 
 ## Available Extensions
 
@@ -17,10 +17,10 @@ A collection of extensions for the [Wave Music Player](https://github.com/Garvit
 ## Installation
 
 ### Automatic (Recommended)
-Extensions are automatically installed when you first open the Wave app. No manual setup needed.
+Extensions are automatically installed when you first open the Flow app. No manual setup needed.
 
 ### Manual
-1. Download the `.eapk` file from the [Releases](https://github.com/Garvittt-API/wave-extension/releases) page
+1. Download the `.eapk` file from the [Releases](https://github.com/Garvittt-API/Flow-extension/releases) page
 2. Open the file with your file manager
 3. Wave will prompt you to install the extension
 4. Confirm the installation
@@ -37,8 +37,7 @@ Want to add a new extension?
 
 ## Links
 
-- [Wave Music Player](https://github.com/Garvittt-API/wave-music)
-- [Discord Server](https://discord.gg/Wexvx8JS8a)
+- [Wave Music Player](https://github.com/Garvittt-API/Flow-releases)
   
 ## License
 

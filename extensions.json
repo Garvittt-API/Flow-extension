@@ -1,11 +1,11 @@
 [
+  [
   {
     "id": "youtube_music",
     "name": "YouTube Music",
-    "subtitle": "Stream from YouTube Music",
-    "icon_url": "",
-    "update_url": "https://api.github.com/repos/user/echo-youtube-music"
-  },
+    "update_url": "https://github.com/Garvittt-API/wave-extension/releases/download/youtube-v1.0.0/youtube_music.eapk"
+  }
+]
   {
     "id": "spotify",
     "name": "Spotify",

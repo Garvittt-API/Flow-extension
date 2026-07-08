@@ -8,7 +8,6 @@ A collection of extensions for the [Flow Music Player](https://github.com/Garvit
 |-----------|-------------|
 | **YouTube Music** | Stream music from YouTube Music |
 | **YouTube** | Stream videos and music from YouTube |
-| **Spotify** | Stream from Spotify (login required) |
 | **Deezer** | High quality music streaming |
 | **Jellyfin** | Connect to your self-hosted Jellyfin media server |
 | **Groove Music** | Stream from Groove Music |

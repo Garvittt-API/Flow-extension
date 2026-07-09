@@ -15,9 +15,6 @@ A collection of extensions for the [Flow Music Player](https://github.com/Garvit
 
 ## Installation
 
-### Automatic (Recommended)
-Extensions are automatically installed when you first open the Flow app. No manual setup needed.
-
 ### Manual
 1. Download the `.eapk` file from the [Releases](https://github.com/Garvittt-API/Flow-extension/releases) page
 2. Open the file with your file manager
